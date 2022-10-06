@@ -1,0 +1,111 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+<!--   <servlet>
+  	<servlet-name>ServletGetAllClasses</servlet-name>
+  	<display-name>ServletGetAllClasses</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletGetAllClasses</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ServletGetAllClasses</servlet-name>
+  	<url-pattern>/ServletGetAllClasses</url-pattern>
+  </servlet-mapping>  -->
+  
+ <!--  <servlet>
+  	<servlet-name>ServletUpdateClasses</servlet-name>
+  	<display-name>ServletUpdateClasses</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletUpdateClasses</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServletDeleteClasses</servlet-name>
+  	<display-name>ServletDeleteClasses</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletDeleteClasses</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServletAddTeacher</servlet-name>
+  	<display-name>ServletAddTeacher</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletAddTeacher</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServletUpdateTeacher</servlet-name>
+  	<display-name>ServletUpdateTeacher</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletUpdateTeacher</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServletDeleteTeacher</servlet-name>
+  	<display-name>ServletDeleteTeacher</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletDeleteTeacher</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServletAddSubject</servlet-name>
+  	<display-name>ServletAddSubject</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletAddSubject</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServletUpdateSubject</servlet-name>
+  	<display-name>ServletUpdateSubject</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletUpdateSubject</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServletDeleteSubject</servlet-name>
+  	<display-name>ServletDeleteSubject</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletDeleteSubject</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>ServletAddClasses</servlet-name>
+  	<display-name>ServletAddClasses</display-name>
+  	<description></description>
+  	<servlet-class>com.softwareacademy.controller.ServletAddClasses</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>ServletUpdateClasses</servlet-name>
+  	<url-pattern>/ServletUpdateClasses</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletDeleteClasses</servlet-name>
+  	<url-pattern>/ServletDeleteClasses</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletAddTeacher</servlet-name>
+  	<url-pattern>/ServletAddTeacher</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletUpdateTeacher</servlet-name>
+  	<url-pattern>/ServletUpdateTeacher</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletDeleteTeacher</servlet-name>
+  	<url-pattern>/ServletDeleteTeacher</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletAddSubject</servlet-name>
+  	<url-pattern>/ServletAddSubject</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletUpdateSubject</servlet-name>
+  	<url-pattern>/ServletUpdateSubject</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletDeleteSubject</servlet-name>
+  	<url-pattern>/ServletDeleteSubject</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletAddClasses</servlet-name>
+  	<url-pattern>/ServletAddClasses</url-pattern>
+  </servlet-mapping>  -->
+</web-app>
+
